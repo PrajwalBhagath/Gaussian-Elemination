@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gaussian Elemination", "Gaussian Elemination\Gaussian Elemination.vcxproj", "{EF582CA1-0929-495F-932F-88BA92C13E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Debug|x64.ActiveCfg = Debug|x64
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Debug|x64.Build.0 = Debug|x64
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Debug|x86.Build.0 = Debug|Win32
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Release|x64.ActiveCfg = Release|x64
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Release|x64.Build.0 = Release|x64
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Release|x86.ActiveCfg = Release|Win32
+		{EF582CA1-0929-495F-932F-88BA92C13E25}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C371EB-4E52-44D1-8876-1AFB11F76314}
+	EndGlobalSection
+EndGlobal

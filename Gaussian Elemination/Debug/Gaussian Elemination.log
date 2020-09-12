@@ -1,0 +1,16 @@
+﻿  Gaussian Elemination.cpp
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(44,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(61,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(62,21): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(76,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(77,21): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(83,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(84,21): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(90,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(92,25): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(116,21): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(135,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(232,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Gaussian Elemination\Gaussian Elemination.cpp(234,21): warning C4018:  '<': signed/unsigned mismatch
+  LINK : Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Debug\Gaussian Elemination.exe not found or not built by the last incremental link; performing full link
+  Gaussian Elemination.vcxproj -> Z:\Prajwal\AUT\year 2\Math for software engineering\Gaussian Elemination\Debug\Gaussian Elemination.exe
